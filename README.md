@@ -214,3 +214,11 @@
 | `g`   | to replace all occurences in the line |
 | `i`   | ingnore case for the pattern          |
 | `I`   | don't ignore case for the pattern     |
+
+# :CtrlP plugin
+
+> [Official Guide](http://ctrlpvim.github.io/ctrlp.vim/#installation)
+
+Key | Description
+--- | ---
+`:CtrlP` | invoke find file mode
